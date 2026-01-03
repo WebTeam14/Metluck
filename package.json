@@ -10,8 +10,8 @@
     "lint": "eslint .",
     "preview": "vite preview",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist -b gh-pages",
-    "homepage": "https://webteam14.github.io/Metluck/"
+    "deploy": "gh-pages -d dist",
+    "homepage": "https://webteam14.github.io/Metluck/",
   },
   "dependencies": {
     "@emailjs/browser": "^4.4.1",

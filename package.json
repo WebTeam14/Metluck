@@ -9,6 +9,8 @@
     "build:dev": "vite build --mode development",
     "lint": "eslint .",
     "preview": "vite preview"
+    "homepage": "https://webteam14.github.io/Metluck/",
+
   },
   "dependencies": {
     "@emailjs/browser": "^4.4.1",

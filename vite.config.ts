@@ -3,7 +3,7 @@ import react from "@vitejs/plugin-react"
 import path from "path"
 
 export default defineConfig({
-  base: "/Metluck/", // <--- replace with your GitHub repo name
+  base: "/Metluck/", // 
   plugins: [react()],
   resolve: {
     alias: {
